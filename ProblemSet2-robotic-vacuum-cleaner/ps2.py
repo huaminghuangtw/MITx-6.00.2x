@@ -301,7 +301,7 @@ def runSimulation(num_robots, speed, width, height, min_coverage, num_trials, ro
 	return avg_cleaning_time
 
 # Uncomment this line to see how much your simulation takes on average
-print(runSimulation(3, 1.0, 20, 20, 0.95, 1, StandardRobot))
+#print(runSimulation(3, 1.0, 20, 20, 0.95, 1, StandardRobot))
 
 # ----------------------------------------------------------------------------------------------------------------------
 
