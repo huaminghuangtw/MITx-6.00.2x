@@ -3,7 +3,10 @@
 <table>
 <tr>
 <td>
-A collection of Problem Sets for <a href="https://www.edx.org/course/introduction-to-computational-thinking-and-data-4">MITx: 6.00.2x Introduction to Computational Thinking and Data Science</a>. I took this online course on edX platform during March-May, 2021. Each of the Problem Set deals with a real-world problem such as <i>spreading of viruses in a patient</i>, <i>modelling of temperature in different areas to find evidence of global warming</i>, etc. Below you can see some interesting visualization of each Problem Sets that I solved.🙂
+A collection of Problem Sets for <a href="https://www.edx.org/course/introduction-to-computational-thinking-and-data-4">MITx: 6.00.2x Introduction to Computational Thinking and Data Science</a>.
+I took this online course on edX platform during March-May, 2021.
+Each of the Problem Set deals with a real-world problem such as <i>spreading of viruses in a patient</i>, <i>modelling of temperature in different areas to find evidence of global warming</i>, etc.
+Below you can see some interesting visualization of each Problem Sets that I solved.🙂
 </td>
 </tr>
 </table>
@@ -14,6 +17,8 @@ A collection of Problem Sets for <a href="https://www.edx.org/course/introductio
 This course is the second part of [MITx's Computational Thinking using Python XSeries Program](https://www.edx.org/xseries/mitx-computational-thinking-using-python)
 
 ![image](https://user-images.githubusercontent.com/43208378/121661931-0a878400-caa5-11eb-95ee-22d8388f124b.png)
+
+Instructor: [John Guttag](https://www.edx.org/bio/john-guttag)
 
 Topics covered include:
 - Advanced programming in Python 3
