@@ -89,5 +89,5 @@ Topics covered include:
 
 ---
 
-## Contact
+### Contact
 If you have any question or suggestion, feel free to contact me at huaming.huang.tw@gmail.com.
