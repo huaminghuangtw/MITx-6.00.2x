@@ -13,6 +13,8 @@ Below you can see some interesting visualization of each Problem Set that I solv
 
 > [Certificate of Completion](https://courses.edx.org/certificates/606d5b4d2e0443aab659c1e93f479d8d)
 
+---
+
 ### Overview
 This course is the second part of [MITx's Computational Thinking using Python XSeries Program](https://www.edx.org/xseries/mitx-computational-thinking-using-python)
 
