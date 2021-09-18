@@ -90,4 +90,4 @@ Topics covered include:
 ---
 
 ### Contact
-If you have any question or suggestion, feel free to contact me at huaming.huang.tw@gmail.com.
+If you have any question or suggestion, feel free to contact me at huaming.huang.tw@gmail.com. Contributions are also welcomed. Please open a [pull-request](https://github.com/hmhuang0501/MITx-6.00.2x/compare) or an [issue](https://github.com/hmhuang0501/MITx-6.00.2x/issues/new) in this repository.
