@@ -6,12 +6,13 @@
 A collection of Problem Sets for <a href="https://www.edx.org/course/introduction-to-computational-thinking-and-data-4">MITx: 6.00.2x Introduction to Computational Thinking and Data Science</a>.
 I took this online course on edX platform during March-May, 2021.
 Each of the Problem Set deals with a real-world problem such as <i>spreading of viruses in a patient</i>, <i>modelling of temperature in different areas to find evidence of global warming</i>, etc.
-Below you can see some interesting visualization of each Problem Set that I solved.🙂
+Below you can see some interesting visualization of each Problem Set that I solved.🙂 (<a href="https://courses.edx.org/certificates/606d5b4d2e0443aab659c1e93f479d8d">Certificate of Completion</a>)
 </td>
 </tr>
 </table>
 
-> [Certificate of Completion](https://courses.edx.org/certificates/606d5b4d2e0443aab659c1e93f479d8d)
+> DISCLAIMER: Please do not simply copy the code without trying to solve the problems yourself in the first place. Remember that one can only learn programming by doing it.
+Have fun coding!😃
 
 ---
 
