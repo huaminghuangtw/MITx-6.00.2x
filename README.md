@@ -11,8 +11,7 @@ Below you can see some interesting visualization of each Problem Set that I solv
 </tr>
 </table>
 
-> DISCLAIMER: Please do not simply copy the code without trying to solve the problems yourself in the first place. Remember that one can only learn programming by doing it.
-Have fun coding!😃
+> DISCLAIMER: Please do not simply copy the code without trying to solve the problems yourself in the first place. The author reserves all rights but does not be liable in any event (e.g., plagiarism) caused by the use of the program. Remember that one can only learn programming by doing it. Have fun coding!😃
 
 ---
 
