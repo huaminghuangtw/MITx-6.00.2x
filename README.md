@@ -1,5 +1,7 @@
 # MITx-6.00.2x
 
+Instructor: [John Guttag](https://www.edx.org/bio/john-guttag)
+
 <table>
 <tr>
 <td>
@@ -20,15 +22,13 @@ This course is the second part of [MITx's Computational Thinking using Python XS
 
 ![image](https://user-images.githubusercontent.com/43208378/121661931-0a878400-caa5-11eb-95ee-22d8388f124b.png)
 
-Instructor: [John Guttag](https://www.edx.org/bio/john-guttag)
-
 Topics covered include:
 - Advanced programming in Python 3
-- Knapsack problem, Graphs and graph optimization
+- Knapsack problem, graphs and graph optimization
 - Dynamic programming
-- Plotting with the pylab package
+- Plotting with the `pylab` package
 - Random walks
-- Probability, Distributions
+- Probability, distributions
 - Curve fitting
 - Statistical fallacies
 - Plotting with the pylab package
@@ -40,13 +40,7 @@ Topics covered include:
 ### Problem Set 1
 > greedy and brute-force algorithms for cow transport
 
-<table>
-<tr>
-<td>
 <img src="https://user-images.githubusercontent.com/43208378/121682236-1f234680-cabc-11eb-965a-8ae55c54f836.png">
-</td>
-</tr>
-</table>
 
 ---
 
@@ -76,18 +70,18 @@ Topics covered include:
 > analyzing and visualizing climate change in terms of temperature using regression models
 
   - Temperature of a specific date (i.e., Jan 10th in this case) in Boston from 1961 to 2005
-  <p float="left">
-    <img src="https://user-images.githubusercontent.com/43208378/121678457-812d7d00-cab7-11eb-82dd-6bc45f305ad3.png" width=270 />
-    <img src="https://user-images.githubusercontent.com/43208378/121678461-82f74080-cab7-11eb-8a22-39c44a70d55f.png" width=270 />
-    <img src="https://user-images.githubusercontent.com/43208378/121678473-85f23100-cab7-11eb-894c-544e0683112d.png" width=270 />
-  </p>
+      <p float="left">
+        <img src="https://user-images.githubusercontent.com/43208378/121678457-812d7d00-cab7-11eb-82dd-6bc45f305ad3.png" width=270 />
+        <img src="https://user-images.githubusercontent.com/43208378/121678461-82f74080-cab7-11eb-8a22-39c44a70d55f.png" width=270 />
+        <img src="https://user-images.githubusercontent.com/43208378/121678473-85f23100-cab7-11eb-894c-544e0683112d.png" width=270 />
+      </p>
   
   - Average annual temperature in Boston from 1961 to 2005
-  <p float="left">
-    <img src="https://user-images.githubusercontent.com/43208378/121678479-88ed2180-cab7-11eb-830b-791fcefae34e.png" width=270 />
-    <img src="https://user-images.githubusercontent.com/43208378/121678487-8ab6e500-cab7-11eb-8a2b-75eb0c7da0f6.png" width=270 />
-    <img src="https://user-images.githubusercontent.com/43208378/121678493-8be81200-cab7-11eb-8eff-f063470cd53c.png" width=270 />
-  </p>
+      <p float="left">
+        <img src="https://user-images.githubusercontent.com/43208378/121678479-88ed2180-cab7-11eb-830b-791fcefae34e.png" width=270 />
+        <img src="https://user-images.githubusercontent.com/43208378/121678487-8ab6e500-cab7-11eb-8a2b-75eb0c7da0f6.png" width=270 />
+        <img src="https://user-images.githubusercontent.com/43208378/121678493-8be81200-cab7-11eb-8eff-f063470cd53c.png" width=270 />
+      </p>
 
 ---
 
