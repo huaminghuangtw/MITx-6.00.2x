@@ -15,8 +15,6 @@ Below you can see some interesting visualization of each Problem Set that I solv
 
 > DISCLAIMER: Please do not simply copy the code without trying to solve the problems yourself in the first place. The author reserves all rights but does not be liable in any event (e.g., plagiarism) caused by the use of the program. Remember that one can only learn programming by doing it. Have fun coding!😃
 
----
-
 ### Overview
 This course is the second part of [MITx's Computational Thinking using Python XSeries Program](https://www.edx.org/xseries/mitx-computational-thinking-using-python)
 
@@ -86,4 +84,4 @@ Topics covered include:
 ---
 
 ### Contact
-If you have any question or suggestion, feel free to contact me at huaming.huang.tw@gmail.com. Contributions are also welcomed. Please open a [pull-request](https://github.com/hmhuang0501/MITx-6.00.2x/compare) or an [issue](https://github.com/hmhuang0501/MITx-6.00.2x/issues/new) in this repository.
+If you have any question or suggestion, feel free to contact me at huaming.huang.tw@gmail.com. Contributions are also welcomed. Please open a [pull-request](https://github.com/huaminghuangtw/MITx-6.00.2x/compare) or an [issue](https://github.com/huaminghuangtw/MITx-6.00.2x/issues/new) in this repository.
